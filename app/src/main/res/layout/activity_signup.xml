@@ -17,6 +17,7 @@
         android:textColor="@color/colorPrimary"
         android:textAlignment="center"/>
 
+
     <TextView
         android:id="@+id/tvusername"
         android:layout_width="80dp"
